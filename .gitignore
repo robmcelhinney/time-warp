@@ -1,0 +1,11 @@
+# Runtime outputs
+summaries/
+sessions/
+logs/
+bookmarks.csv
+
+# Local editor/system files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
